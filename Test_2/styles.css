@@ -1,0 +1,13 @@
+#content {
+  height: 700px;
+  width: 1400px;
+  margin-top: 20px;
+}
+
+span {
+  font-size: 36px;
+}
+
+span:hover {
+  cursor: pointer;
+}
